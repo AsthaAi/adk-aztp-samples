@@ -117,7 +117,7 @@ def _load_precreated_itinerary(callback_context: CallbackContext):
 
     Args:
         callback_context: The callback context.
-    """    
+    """
     data = {}
     with open(SAMPLE_SCENARIO_PATH, "r") as file:
         data = json.load(file)

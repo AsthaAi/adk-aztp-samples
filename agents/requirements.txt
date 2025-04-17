@@ -1,0 +1,5 @@
+asyncio==3.4.3
+aztp-client==1.0.22
+google-adk==0.1.0
+subprocess32==3.5.4
+python-dotenv==1.1.0
